@@ -1,16 +1,16 @@
 # COPILOT + AGENTES PARA EMPRESAS
-## Do uso da IA à automação de processos corporativos
+## Do uso da IA à automaçêo de processos corporativos
 
-**Versão:** Setembro de 2026  
+**Versêo:** Setembro de 2026  
 **Foco:** Microsoft 365 Copilot, Copilot Studio, Power Automate, Power Automate Desktop, Computer Use, Power BI, SharePoint/Dataverse e agentes corporativos.
 
 ---
 
-# 1. Visão Geral
+# 1. Visêo Geral
 
 O Microsoft Copilot corporativo deixou de ser apenas um assistente para escrever textos, resumir emails ou responder perguntas.
 
-A evolução mais importante é a passagem de:
+A evoluçêo mais importante é a passagem de:
 
 > **“IA que ajuda a pessoa a trabalhar”**
 
@@ -18,7 +18,7 @@ para:
 
 > **“IA e agentes que participam do processo de trabalho e executam tarefas.”**
 
-Por isso, uma capacitação moderna não deve ensinar apenas prompts ou funcionalidades isoladas.
+Por isso, uma capacitaçêo moderna nêo deve ensinar apenas prompts ou funcionalidades isoladas.
 
 Ela deve ensinar a pessoa a transformar o próprio trabalho usando:
 
@@ -43,7 +43,7 @@ Ela deve ensinar a pessoa a transformar o próprio trabalho usando:
 
 A lógica passa a ser:
 
-**Objetivo → Contexto → Dados → Análise → Decisão → Ferramenta → Execução → Validação → Automação → Agente**
+**Objetivo → Contexto → Dados → Análise → Decisêo → Ferramenta → Execuçêo → Validaçêo → Automaçêo → Agente**
 
 ---
 
@@ -64,9 +64,9 @@ Exemplos:
 - descobrir quem é responsável por um assunto;
 - pesquisar materiais em SharePoint;
 - encontrar informações relacionadas a um projeto;
-- cruzar diferentes fontes de informação.
+- cruzar diferentes fontes de informaçêo.
 
-A evolução esperada é sair de:
+A evoluçêo esperada é sair de:
 
 > “Onde está aquele arquivo?”
 
@@ -76,7 +76,7 @@ para:
 
 ---
 
-# 3. Emails e comunicação
+# 3. Emails e comunicaçêo
 
 A pessoa deve aprender a usar o Copilot para:
 
@@ -87,7 +87,7 @@ A pessoa deve aprender a usar o Copilot para:
 - ajustar tom;
 - transformar discussões em ações;
 - elaborar follow-ups;
-- identificar quem ainda não respondeu;
+- identificar quem ainda nêo respondeu;
 - preparar comunicações executivas;
 - criar mensagens diferentes para públicos diferentes.
 
@@ -97,15 +97,15 @@ Exemplo:
 
 ---
 
-# 4. Reuniões transformadas em execução
+# 4. Reuniões transformadas em execuçêo
 
-Uma reunião não deve terminar apenas com uma ata.
+Uma reuniêo nêo deve terminar apenas com uma ata.
 
-A pessoa deve aprender a transformar reuniões em execução.
+A pessoa deve aprender a transformar reuniões em execuçêo.
 
 Fluxo:
 
-**Antes da reunião**
+**Antes da reuniêo**
 - pesquisar contexto;
 - preparar briefing;
 - levantar informações;
@@ -113,7 +113,7 @@ Fluxo:
 - preparar perguntas.
 
 **Durante/depois**
-- resumir reunião;
+- resumir reuniêo;
 - identificar decisões;
 - identificar tarefas;
 - identificar responsáveis;
@@ -123,11 +123,11 @@ Fluxo:
 
 Modelo:
 
-**Reunião → Resumo → Decisões → Responsáveis → Tarefas → Prazo → Acompanhamento**
+**Reuniêo → Resumo → Decisões → Responsáveis → Tarefas → Prazo → Acompanhamento**
 
 ---
 
-# 5. Produção de documentos
+# 5. Produçêo de documentos
 
 No Word e demais ferramentas, a pessoa deve aprender a:
 
@@ -145,30 +145,30 @@ No Word e demais ferramentas, a pessoa deve aprender a:
 
 ---
 
-# 6. Criação de apresentações
+# 6. Criaçêo de apresentações
 
-A capacitação deve incluir a transformação de informação em apresentações.
+A capacitaçêo deve incluir a transformaçêo de informaçêo em apresentações.
 
 A pessoa deve aprender a:
 
 - construir narrativa;
 - definir sequência de slides;
 - transformar documentos em apresentações;
-- resumir grandes volumes de informação;
+- resumir grandes volumes de informaçêo;
 - gerar estrutura executiva;
 - criar mensagens principais;
-- gerar notas para apresentação;
+- gerar notas para apresentaçêo;
 - adaptar material para diferentes públicos.
 
 Fluxo:
 
-**Documentos + Dados + Reuniões → Síntese → História → Apresentação**
+**Documentos + Dados + Reuniões → Síntese → História → Apresentaçêo**
 
 ---
 
 # 7. Excel, dados e análise
 
-O funcionário não precisa se tornar cientista de dados para trabalhar melhor com informações.
+O funcionário nêo precisa se tornar cientista de dados para trabalhar melhor com informações.
 
 Deve aprender a:
 
@@ -188,13 +188,13 @@ Deve aprender a:
 
 Pergunta exemplo:
 
-> “O que mudou neste mês em relação aos três meses anteriores e quais fatores mais contribuíram para a mudança?”
+> “O que mudou neste mês em relaçêo aos três meses anteriores e quais fatores mais contribuíram para a mudança?”
 
 ---
 
 # 8. Analyst e análise avançada
 
-O uso do Analyst permite avançar para análises que envolvem diferentes arquivos e conjuntos de informação.
+O uso do Analyst permite avançar para análises que envolvem diferentes arquivos e conjuntos de informaçêo.
 
 A pessoa deve aprender a:
 
@@ -205,13 +205,13 @@ A pessoa deve aprender a:
 - construir hipóteses;
 - gerar análises estruturadas;
 - explicar anomalias;
-- transformar números em interpretação.
+- transformar números em interpretaçêo.
 
 ---
 
 # 9. Researcher e pesquisa corporativa
 
-O Researcher permite usar IA para investigação mais profunda.
+O Researcher permite usar IA para investigaçêo mais profunda.
 
 A pessoa deve aprender a formular perguntas como:
 
@@ -226,7 +226,7 @@ Aplicações:
 - tecnologias;
 - clientes;
 - projetos;
-- legislação;
+- legislaçêo;
 - tendências;
 - análise estratégica.
 
@@ -244,11 +244,11 @@ Em vez de:
 
 usar:
 
-**Objetivo → Contexto → Fontes → Análise → Ferramentas → Execução → Validação**
+**Objetivo → Contexto → Fontes → Análise → Ferramentas → Execuçêo → Validaçêo**
 
 E depois:
 
-**Workflow → Automação → Agente**
+**Workflow → Automaçêo → Agente**
 
 ---
 
@@ -271,7 +271,7 @@ Usa a IA dentro dos fluxos reais de trabalho.
 
 Exemplo:
 
-**Reunião → Relatório → Plano → Tarefas → Comunicação → Acompanhamento**
+**Reuniêo → Relatório → Plano → Tarefas → Comunicaçêo → Acompanhamento**
 
 ## Nível 3 — Construtor de agentes
 
@@ -315,7 +315,7 @@ Uma arquitetura didática para empresas seria:
 
 **Power BI / Indicadores**
 
-E, quando o sistema não possui API:
+E, quando o sistema nêo possui API:
 
 **Agente → Computer Use / Power Automate Desktop → Tela do sistema**
 
@@ -323,7 +323,7 @@ E, quando o sistema não possui API:
 
 # 13. Copilot Studio
 
-O Copilot Studio é uma das partes mais importantes da formação.
+O Copilot Studio é uma das partes mais importantes da formaçêo.
 
 O participante deve aprender a:
 
@@ -335,7 +335,7 @@ O participante deve aprender a:
 - usar ferramentas;
 - chamar fluxos;
 - criar ações;
-- trabalhar com autenticação;
+- trabalhar com autenticaçêo;
 - controlar permissões;
 - criar agentes especializados;
 - publicar agentes;
@@ -352,7 +352,7 @@ Exemplos:
 - agente de RH;
 - agente de onboarding;
 - agente de segurança do trabalho;
-- agente de manutenção;
+- agente de manutençêo;
 - agente de compras;
 - agente de contratos;
 - agente de fornecedores;
@@ -362,7 +362,7 @@ Exemplos:
 - agente de procedimentos;
 - agente de suporte;
 - agente de treinamento;
-- agente de gestão;
+- agente de gestêo;
 - agente de projetos;
 - agente de indicadores.
 
@@ -370,7 +370,7 @@ Exemplos:
 
 # 15. Power Automate
 
-Power Automate deve ser tratado como a camada de execução.
+Power Automate deve ser tratado como a camada de execuçêo.
 
 A pessoa deve aprender:
 
@@ -390,16 +390,16 @@ A pessoa deve aprender:
 - chamadas de APIs;
 - tratamento de erros;
 - logs;
-- execução agendada;
-- execução por eventos.
+- execuçêo agendada;
+- execuçêo por eventos.
 
 ---
 
 # 16. Exemplos de fluxos com Power Automate
 
-## Exemplo 1 — Aprovação
+## Exemplo 1 — Aprovaçêo
 
-**Solicitação criada**
+**Solicitaçêo criada**
 
 ↓
 
@@ -407,14 +407,14 @@ A pessoa deve aprender:
 
 ↓
 
-**Enviar aprovação**
+**Enviar aprovaçêo**
 
 ↓
 
 **Aprovado?**
 
 - Sim → continuar processo.
-- Não → informar solicitante.
+- Nêo → informar solicitante.
 
 ↓
 
@@ -448,7 +448,7 @@ A pessoa deve aprender:
 
 ↓
 
-**Acompanha atualização**
+**Acompanha atualizaçêo**
 
 ↓
 
@@ -458,26 +458,26 @@ A pessoa deve aprender:
 
 # 17. Agentes preenchendo telas e formulários
 
-Esse é um dos casos mais importantes da formação.
+Esse é um dos casos mais importantes da formaçêo.
 
-Um agente pode participar de processos em sistemas que não oferecem APIs.
+Um agente pode participar de processos em sistemas que nêo oferecem APIs.
 
 Existem dois caminhos principais:
 
 ## 17.1 Power Automate Desktop
 
-Mais indicado para automação determinística.
+Mais indicado para automaçêo determinística.
 
 Exemplos:
 
 - abrir sistema;
-- clicar botão;
+- clicar botêo;
 - escolher menu;
 - preencher campo;
-- selecionar opção;
+- selecionar opçêo;
 - anexar arquivo;
 - salvar registro;
-- copiar informação;
+- copiar informaçêo;
 - executar uma sequência previsível.
 
 ---
@@ -499,8 +499,8 @@ Pode:
 
 É especialmente útil quando:
 
-- não existe API;
-- não existe conector;
+- nêo existe API;
+- nêo existe conector;
 - o sistema é legado;
 - o processo depende de uma interface gráfica.
 
@@ -520,7 +520,7 @@ Mais robusto e confiável.
 
 **Power Automate / fluxo estruturado**
 
-Quando existe integração disponível.
+Quando existe integraçêo disponível.
 
 ## Terceira escolha
 
@@ -538,7 +538,7 @@ Quando o agente precisa compreender uma interface e operar de forma mais flexív
 
 # 20. Exemplo — Cadastro de fornecedor
 
-Solicitação:
+Solicitaçêo:
 
 > “Cadastre este fornecedor no sistema.”
 
@@ -546,14 +546,14 @@ O agente pode:
 
 1. receber documentos;
 2. extrair informações;
-3. identificar razão social;
-4. identificar CNPJ ou identificação equivalente;
+3. identificar razêo social;
+4. identificar CNPJ ou identificaçêo equivalente;
 5. identificar endereço;
 6. identificar contatos;
 7. verificar campos obrigatórios;
 8. perguntar dados faltantes;
 9. validar regras;
-10. solicitar aprovação;
+10. solicitar aprovaçêo;
 11. abrir sistema;
 12. acessar cadastro;
 13. preencher campos;
@@ -572,7 +572,7 @@ Arquitetura:
 
 ↓
 
-**Validação**
+**Validaçêo**
 
 ↓
 
@@ -580,7 +580,7 @@ Arquitetura:
 
 ↓
 
-**Aprovação**
+**Aprovaçêo**
 
 ↓
 
@@ -609,13 +609,13 @@ Um agente pode ajudar em:
 - inspeções;
 - registros de ocorrências;
 - quase acidentes;
-- planos de ação;
+- planos de açêo;
 - treinamentos;
 - documentos;
 - vencimentos;
 - EPIs;
 - auditorias;
-- comunicação;
+- comunicaçêo;
 - indicadores;
 - análise de riscos administrativos;
 - acompanhamento de pendências.
@@ -626,18 +626,18 @@ Um agente pode ajudar em:
 
 Funcionário informa no Teams:
 
-> “Encontramos uma proteção danificada na máquina 14.”
+> “Encontramos uma proteçêo danificada na máquina 14.”
 
 O agente pode perguntar:
 
 - local;
 - setor;
 - equipamento;
-- descrição;
+- descriçêo;
 - foto;
 - responsável;
 - nível de prioridade;
-- situação atual.
+- situaçêo atual.
 
 Depois:
 
@@ -661,7 +661,7 @@ Depois:
 
 ↓
 
-**Solicita avaliação humana**
+**Solicita avaliaçêo humana**
 
 ↓
 
@@ -677,43 +677,43 @@ Depois:
 
 ---
 
-# 23. Importante: aprovação humana em segurança
+# 23. Importante: aprovaçêo humana em segurança
 
 IA pode auxiliar em:
 
 - coleta;
-- organização;
+- organizaçêo;
 - triagem administrativa;
 - alertas;
 - acompanhamento;
 - análise;
 - relatórios.
 
-Mas decisões críticas devem manter participação humana.
+Mas decisões críticas devem manter participaçêo humana.
 
 Principalmente:
 
-- liberação de equipamentos;
-- liberação de áreas;
+- liberaçêo de equipamentos;
+- liberaçêo de áreas;
 - decisões de risco;
 - medidas disciplinares;
-- interpretação legal;
-- classificação crítica;
+- interpretaçêo legal;
+- classificaçêo crítica;
 - decisões que afetem segurança física.
 
 ---
 
 # 24. Indicadores
 
-A formação deve ensinar a transformar dados em gestão.
+A formaçêo deve ensinar a transformar dados em gestêo.
 
-Não basta ensinar:
+Nêo basta ensinar:
 
 > “Crie um gráfico.”
 
 A sequência correta é:
 
-**Dados → Indicador → Meta → Desvio → Explicação → Ação**
+**Dados → Indicador → Meta → Desvio → Explicaçêo → Açêo**
 
 ---
 
@@ -728,18 +728,18 @@ A sequência correta é:
 - treinamentos;
 - EPIs;
 - desvios;
-- prazo médio de correção;
+- prazo médio de correçêo;
 - reincidência.
 
 ## Fornecedores
 
 - entregas no prazo;
 - qualidade;
-- não conformidades;
+- nêo conformidades;
 - tempo de resposta;
 - custo;
 - SLA;
-- documentação;
+- documentaçêo;
 - risco;
 - performance.
 
@@ -754,18 +754,18 @@ A sequência correta é:
 
 ## Compras
 
-- prazo de aquisição;
+- prazo de aquisiçêo;
 - economia;
-- variação de preço;
+- variaçêo de preço;
 - fornecedores ativos;
-- concentração;
+- concentraçêo;
 - compras emergenciais.
 
 ---
 
 # 26. Power BI + Copilot
 
-O Power BI deve entrar como camada de análise e visualização.
+O Power BI deve entrar como camada de análise e visualizaçêo.
 
 O participante deve aprender a:
 
@@ -778,7 +778,7 @@ O participante deve aprender a:
 - gerar resumos executivos;
 - consultar dados em linguagem natural;
 - identificar tendências;
-- apresentar informação para gestores.
+- apresentar informaçêo para gestores.
 
 ---
 
@@ -786,9 +786,9 @@ O participante deve aprender a:
 
 Exemplos:
 
-> “Quais são hoje as ocorrências críticas abertas?”
+> “Quais sêo hoje as ocorrências críticas abertas?”
 
-> “Quais ações corretivas estão atrasadas?”
+> “Quais ações corretivas estêo atrasadas?”
 
 > “Qual setor tem maior reincidência?”
 
@@ -804,13 +804,13 @@ Exemplos:
 
 ---
 
-# 28. Gestão de fornecedores
+# 28. Gestêo de fornecedores
 
-Um dos melhores projetos para aplicação corporativa.
+Um dos melhores projetos para aplicaçêo corporativa.
 
 O agente pode acompanhar o ciclo inteiro:
 
-**Prospecção**
+**Prospecçêo**
 
 ↓
 
@@ -818,19 +818,19 @@ O agente pode acompanhar o ciclo inteiro:
 
 ↓
 
-**Documentação**
+**Documentaçêo**
 
 ↓
 
-**Validação**
+**Validaçêo**
 
 ↓
 
-**Homologação**
+**Homologaçêo**
 
 ↓
 
-**Aprovação**
+**Aprovaçêo**
 
 ↓
 
@@ -842,11 +842,11 @@ O agente pode acompanhar o ciclo inteiro:
 
 ↓
 
-**Avaliação**
+**Avaliaçêo**
 
 ↓
 
-**Renovação**
+**Renovaçêo**
 
 ---
 
@@ -855,12 +855,12 @@ O agente pode acompanhar o ciclo inteiro:
 Funções possíveis:
 
 - receber novos fornecedores;
-- solicitar documentação;
+- solicitar documentaçêo;
 - validar documentos;
 - identificar pendências;
 - acompanhar validade;
 - gerar alertas;
-- solicitar aprovação;
+- solicitar aprovaçêo;
 - cadastrar em sistemas;
 - acompanhar SLA;
 - analisar desempenho;
@@ -880,19 +880,19 @@ Usuário:
 
 Agente:
 
-- solicita documentação;
+- solicita documentaçêo;
 - verifica campos obrigatórios;
 - consulta regras;
 - identifica dados faltantes;
-- envia aprovação;
-- acompanha aprovação;
+- envia aprovaçêo;
+- acompanha aprovaçêo;
 - cadastra fornecedor;
 - registra processo;
 - informa resultado.
 
 Depois o gestor pergunta:
 
-> “Quais fornecedores estão com documentos vencendo nos próximos 30 dias?”
+> “Quais fornecedores estêo com documentos vencendo nos próximos 30 dias?”
 
 Ou:
 
@@ -900,28 +900,28 @@ Ou:
 
 Ou:
 
-> “Liste os cinco fornecedores com maior número de não conformidades.”
+> “Liste os cinco fornecedores com maior número de nêo conformidades.”
 
 ---
 
-# 31. Gestão de fornecedores + indicadores
+# 31. Gestêo de fornecedores + indicadores
 
 Exemplos de painel:
 
 | Indicador | Objetivo |
 |---|---|
 | Entrega no prazo | medir pontualidade |
-| Não conformidades | medir qualidade |
+| Nêo conformidades | medir qualidade |
 | SLA | medir atendimento |
 | Documentos vencidos | medir risco documental |
-| Tempo de homologação | medir eficiência |
-| Dependência | medir concentração |
-| Custo | acompanhar evolução |
+| Tempo de homologaçêo | medir eficiência |
+| Dependência | medir concentraçêo |
+| Custo | acompanhar evoluçêo |
 | Reincidência | identificar problemas recorrentes |
 
 ---
 
-# 32. Formação recomendada
+# 32. Formaçêo recomendada
 
 ## Módulo 1 — Copilot Essencial
 **Carga sugerida: 6 a 8 horas**
@@ -946,7 +946,7 @@ Resultado:
 
 ---
 
-# 33. Módulo 2 — Copilot para análise e decisão
+# 33. Módulo 2 — Copilot para análise e decisêo
 **Carga sugerida: 6 horas**
 
 Conteúdo:
@@ -957,8 +957,8 @@ Conteúdo:
 - cruzamento de fontes;
 - relatórios;
 - análise;
-- interpretação;
-- decisão.
+- interpretaçêo;
+- decisêo.
 
 Resultado:
 
@@ -991,7 +991,7 @@ Resultado:
 
 Conteúdo:
 
-- criação de agentes;
+- criaçêo de agentes;
 - instruções;
 - conhecimento;
 - SharePoint;
@@ -999,9 +999,9 @@ Conteúdo:
 - ferramentas;
 - ações;
 - conectores;
-- autenticação;
-- publicação;
-- avaliação.
+- autenticaçêo;
+- publicaçêo;
+- avaliaçêo.
 
 Resultado:
 
@@ -1034,7 +1034,7 @@ Resultado:
 
 ---
 
-# 37. Módulo 6 — Automação de telas
+# 37. Módulo 6 — Automaçêo de telas
 **Carga sugerida: 8 horas**
 
 Conteúdo:
@@ -1042,7 +1042,7 @@ Conteúdo:
 - Power Automate Desktop;
 - RPA;
 - elementos de interface;
-- automação web;
+- automaçêo web;
 - aplicações Windows;
 - preenchimento de formulários;
 - Computer Use;
@@ -1052,7 +1052,7 @@ Conteúdo:
 
 Resultado:
 
-**Participante cria automação capaz de trabalhar em uma interface real.**
+**Participante cria automaçêo capaz de trabalhar em uma interface real.**
 
 ---
 
@@ -1074,7 +1074,7 @@ Conteúdo:
 
 Resultado:
 
-**Participante transforma dados em informação gerencial.**
+**Participante transforma dados em informaçêo gerencial.**
 
 ---
 
@@ -1090,7 +1090,7 @@ Exemplos:
 - RH;
 - compras;
 - qualidade;
-- manutenção;
+- manutençêo;
 - financeiro;
 - comercial.
 
@@ -1102,15 +1102,15 @@ Resultado:
 
 # 40. Carga total sugerida
 
-Formação completa:
+Formaçêo completa:
 
 **aproximadamente 50 a 58 horas**
 
 Pode ser dividida em:
 
-- formação básica;
-- formação intermediária;
-- formação avançada;
+- formaçêo básica;
+- formaçêo intermediária;
+- formaçêo avançada;
 - laboratórios.
 
 ---
@@ -1126,7 +1126,7 @@ Funções:
 - registrar ocorrência;
 - receber fotos;
 - registrar quase acidente;
-- gerar plano de ação;
+- gerar plano de açêo;
 - encaminhar responsável;
 - controlar prazo;
 - enviar alertas;
@@ -1144,7 +1144,7 @@ Tecnologias:
 
 ---
 
-# 42. Projeto prático 2 — Gestão de Fornecedores
+# 42. Projeto prático 2 — Gestêo de Fornecedores
 
 Criar:
 
@@ -1154,7 +1154,7 @@ Funções:
 
 - novo cadastro;
 - documentos;
-- aprovação;
+- aprovaçêo;
 - cadastro;
 - controle de vencimentos;
 - ranking;
@@ -1190,8 +1190,8 @@ Processo:
 1. agente extrai dados;
 2. valida;
 3. verifica informações faltantes;
-4. solicita complementação;
-5. solicita aprovação;
+4. solicita complementaçêo;
+5. solicita aprovaçêo;
 6. abre sistema;
 7. preenche tela;
 8. salva;
@@ -1210,21 +1210,21 @@ Perguntas:
 
 > “O que está piorando?”
 
-> “Qual área requer atenção?”
+> “Qual área requer atençêo?”
 
 > “Qual indicador saiu da meta?”
 
 > “Por quê?”
 
-> “Que ações estão atrasadas?”
+> “Que ações estêo atrasadas?”
 
-> “Quais fornecedores estão causando maior impacto?”
+> “Quais fornecedores estêo causando maior impacto?”
 
 ---
 
 # 45. Segurança, governança e permissões
 
-Uma formação empresarial precisa ensinar governança.
+Uma formaçêo empresarial precisa ensinar governança.
 
 Tópicos essenciais:
 
@@ -1232,14 +1232,14 @@ Tópicos essenciais:
 - acesso mínimo necessário;
 - compartilhamento excessivo;
 - dados confidenciais;
-- classificação;
-- aprovação humana;
+- classificaçêo;
+- aprovaçêo humana;
 - logs;
 - auditoria;
-- segregação;
-- autenticação;
+- segregaçêo;
+- autenticaçêo;
 - ambientes;
-- desenvolvimento x produção;
+- desenvolvimento x produçêo;
 - responsabilidade humana.
 
 ---
@@ -1250,9 +1250,9 @@ Se uma pessoa possui acesso indevido a um documento, um sistema de IA integrado 
 
 Por isso:
 
-**IA não corrige governança ruim.**
+**IA nêo corrige governança ruim.**
 
-Antes de colocar agentes em produção:
+Antes de colocar agentes em produçêo:
 
 1. revisar permissões;
 2. revisar grupos;
@@ -1260,7 +1260,7 @@ Antes de colocar agentes em produção:
 4. revisar acesso a dados;
 5. definir responsáveis;
 6. definir trilhas de auditoria;
-7. definir processos de aprovação.
+7. definir processos de aprovaçêo.
 
 ---
 
@@ -1268,32 +1268,32 @@ Antes de colocar agentes em produção:
 
 Nem tudo deve ser totalmente automatizado.
 
-Usar aprovação humana quando houver:
+Usar aprovaçêo humana quando houver:
 
 - risco financeiro;
 - risco jurídico;
 - risco de segurança;
-- exclusão de informações;
-- contratação;
+- exclusêo de informações;
+- contrataçêo;
 - pagamentos;
 - mudanças importantes;
 - decisões disciplinares;
-- liberação de equipamentos;
-- aprovação de fornecedor crítico.
+- liberaçêo de equipamentos;
+- aprovaçêo de fornecedor crítico.
 
 ---
 
 # 48. Novo perfil profissional
 
-O objetivo da formação é criar um novo tipo de profissional.
+O objetivo da formaçêo é criar um novo tipo de profissional.
 
-Não apenas:
+Nêo apenas:
 
 **Usuário de ferramenta**
 
 Mas:
 
-> **Profissional capaz de identificar um processo, redesenhá-lo e construir uma solução com IA, agentes, automações e dados.**
+> **Profissional capaz de identificar um processo, redesenhá-lo e construir uma soluçêo com IA, agentes, automações e dados.**
 
 Competências:
 
@@ -1303,7 +1303,7 @@ Competências:
 - organizar conhecimento;
 - analisar dados;
 - criar agente;
-- criar automação;
+- criar automaçêo;
 - trabalhar com indicadores;
 - integrar sistemas;
 - validar resultado;
@@ -1319,16 +1319,16 @@ Passa a ser:
 
 ## Engenharia de Trabalho com IA
 
-Combinação de:
+Combinaçêo de:
 
-- intenção;
+- intençêo;
 - contexto;
 - processo;
 - dados;
 - agentes;
 - ferramentas;
-- automação;
-- validação;
+- automaçêo;
+- validaçêo;
 - governança.
 
 ---
@@ -1366,7 +1366,7 @@ E o agente coordena:
 
 ---
 
-# 51. O que não deve ser o foco do curso
+# 51. O que nêo deve ser o foco do curso
 
 Evitar um curso baseado apenas em:
 
@@ -1395,12 +1395,12 @@ A pergunta central deve ser:
 Cada módulo deve conter:
 
 1. conceito;
-2. demonstração;
+2. demonstraçêo;
 3. exercício;
 4. caso empresarial;
 5. laboratório;
-6. validação;
-7. aplicação real.
+6. validaçêo;
+7. aplicaçêo real.
 
 ---
 
@@ -1417,16 +1417,16 @@ Responda:
 - quais dados entram?
 - quais sistemas participam?
 - quais decisões existem?
-- quais passos são repetitivos?
+- quais passos sêo repetitivos?
 - quais passos exigem humano?
 - quais passos podem ser automatizados?
 - quais indicadores medem sucesso?
 - qual agente pode participar?
-- qual ferramenta deve executar cada ação?
+- qual ferramenta deve executar cada açêo?
 
 ---
 
-# 55. Canvas de Automação com Agentes
+# 55. Canvas de Automaçêo com Agentes
 
 ## Processo
 
@@ -1446,7 +1446,7 @@ Qual resultado deve produzir?
 
 ## Conhecimento
 
-Onde está a informação?
+Onde está a informaçêo?
 
 - SharePoint;
 - documentos;
@@ -1472,7 +1472,7 @@ O agente deve:
 - aprovar;
 - notificar.
 
-## Integração
+## Integraçêo
 
 - API;
 - conector;
@@ -1480,7 +1480,7 @@ O agente deve:
 - Desktop Flow;
 - Computer Use.
 
-## Validação
+## Validaçêo
 
 Quem valida?
 
@@ -1490,33 +1490,33 @@ Como medir sucesso?
 
 ---
 
-# 56. Indicadores de sucesso da implantação
+# 56. Indicadores de sucesso da implantaçêo
 
 A empresa pode medir:
 
 - horas economizadas;
 - tempo de processo;
-- redução de retrabalho;
-- redução de erros;
+- reduçêo de retrabalho;
+- reduçêo de erros;
 - tempo de resposta;
 - número de tarefas automatizadas;
-- número de agentes em produção;
+- número de agentes em produçêo;
 - uso mensal;
-- satisfação;
+- satisfaçêo;
 - SLA;
 - economia;
 - produtividade;
-- tempo de decisão.
+- tempo de decisêo.
 
 ---
 
-# 57. Roadmap de implantação empresarial
+# 57. Roadmap de implantaçêo empresarial
 
-## Fase 1 — Capacitação
+## Fase 1 — Capacitaçêo
 
 Ensinar Copilot.
 
-## Fase 2 — Identificação
+## Fase 2 — Identificaçêo
 
 Selecionar processos.
 
@@ -1524,11 +1524,11 @@ Selecionar processos.
 
 Criar agentes simples.
 
-## Fase 4 — Automação
+## Fase 4 — Automaçêo
 
 Adicionar Power Automate.
 
-## Fase 5 — Integração
+## Fase 5 — Integraçêo
 
 Conectar sistemas.
 
@@ -1544,7 +1544,7 @@ Adicionar indicadores.
 
 Controlar escala.
 
-## Fase 9 — Expansão
+## Fase 9 — Expansêo
 
 Transformar departamentos.
 
@@ -1579,16 +1579,16 @@ Transformar departamentos.
 ## Segurança do Trabalho
 
 - ocorrências;
-- planos de ação;
+- planos de açêo;
 - inspeções;
 - treinamentos;
 - indicadores.
 
 ## Qualidade
 
-- não conformidades;
+- nêo conformidades;
 - auditorias;
-- planos de ação;
+- planos de açêo;
 - indicadores.
 
 ## Comercial
@@ -1603,7 +1603,7 @@ Transformar departamentos.
 
 - ocorrências;
 - acompanhamento;
-- manutenção;
+- manutençêo;
 - produtividade;
 - dashboards.
 
@@ -1611,10 +1611,10 @@ Transformar departamentos.
 
 # 59. Resultado final esperado do participante
 
-Ao final da formação, a pessoa deve conseguir:
+Ao final da formaçêo, a pessoa deve conseguir:
 
 1. usar Copilot no trabalho;
-2. pesquisar informação interna;
+2. pesquisar informaçêo interna;
 3. analisar documentos;
 4. analisar dados;
 5. criar relatórios;
@@ -1632,11 +1632,11 @@ Ao final da formação, a pessoa deve conseguir:
 
 ---
 
-# 60. Nome sugerido para a formação
+# 60. Nome sugerido para a formaçêo
 
 # COPILOT + AGENTES PARA EMPRESAS
 
-## Do trabalho com IA à automação dos processos corporativos
+## Do trabalho com IA à automaçêo dos processos corporativos
 
 Subtítulo alternativo:
 
@@ -1646,11 +1646,11 @@ Subtítulo alternativo:
 
 # 61. Mensagem central
 
-A grande mudança não é ensinar funcionários a conversar com um chatbot.
+A grande mudança nêo é ensinar funcionários a conversar com um chatbot.
 
 É ensinar pessoas a construir uma nova forma de trabalhar.
 
-A evolução é:
+A evoluçêo é:
 
 **Usuário de IA**
 
@@ -1672,7 +1672,7 @@ A evolução é:
 
 ---
 
-# 62. Conclusão
+# 62. Conclusêo
 
 O Copilot empresarial deve ser visto como parte de uma arquitetura maior.
 
@@ -1706,7 +1706,7 @@ para:
 
 # 63. Referências oficiais recomendadas
 
-As funcionalidades e a disponibilidade podem variar por licença, tenant, região e rollout. Para implantação, validar sempre a documentação atual da Microsoft.
+As funcionalidades e a disponibilidade podem variar por licença, tenant, regiêo e rollout. Para implantaçêo, validar sempre a documentaçêo atual da Microsoft.
 
 - Microsoft 365 Copilot  
   https://learn.microsoft.com/microsoft-365-copilot/
@@ -1730,4 +1730,4 @@ As funcionalidades e a disponibilidade podem variar por licença, tenant, regiã
 
 ## Resumo em uma frase
 
-> **O profissional do novo ambiente corporativo não precisa apenas saber usar IA: precisa aprender a transformar processos em workflows e workflows em agentes que pesquisam, analisam, executam, automatizam e medem resultados.**
+> **O profissional do novo ambiente corporativo nêo precisa apenas saber usar IA: precisa aprender a transformar processos em workflows e workflows em agentes que pesquisam, analisam, executam, automatizam e medem resultados.**
